@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "100746168572",
+    "firebase_url": "https://dbentrega4-default-rtdb.firebaseio.com",
+    "project_id": "dbentrega4",
+    "storage_bucket": "dbentrega4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100746168572:android:3228e348ede4821c6e2f79",
+        "android_client_info": {
+          "package_name": "com.tamayo.app_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQCC0q-aYCbYuX6OlPOzgPeKJ6QjyWAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
